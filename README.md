@@ -1,6 +1,6 @@
-# hello-world
-Learning how to GitHub, one step at a time
+Until I create a self-hosted wiki, I'll be using GitHub as my wiki.
 
-I've never used GitHub before, so this is my first ReadMe, how cool.
-
-Studying for AWS Cloud Architecture Certification and this would be a good asset to have, and I figured this is probably one of the basic tools to use!
+To Do list:
+  -Make wiki public
+  -Determine if I can share parts of wiki and keep other parts private
+  -Create a design hierarchy and templates in order to keep the wiki organized
